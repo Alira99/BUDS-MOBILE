@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.google.ar.core.arfoundation.extensions": {
+      "tarball": {
+        "hash": "83a63a4117d3",
+        "mtime": 1711249439444,
+        "size": 2570200,
+        "localPath": "C:\\Users\\BOSS_OWNER_MANAGER\\Downloads\\arcore-unity-extensions-1.36.0.tgz"
+      }
+    }
+  }
+}
